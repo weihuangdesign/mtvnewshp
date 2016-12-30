@@ -1,0 +1,171 @@
+/* Akidenz-Grotesk Regular *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk';
+    src: url('../../../fonts/akzidgrostdregwebfont.eot');
+    src: url('../../../fonts/akzidgrostdregwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdregwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdregwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdregwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk';
+    src: url('../../../fonts/akzidgrostditawebfont.eot');
+    src: url('../../../fonts/akzidgrostditawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostditawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostditawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostditawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Akidenz-Grotesk Bold *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk';
+    src: url('../../../fonts/akzidgrostdbolwebfont.eot');
+    src: url('../../../fonts/akzidgrostdbolwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdbolwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdbolwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdbolwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk';
+    src: url('../../../fonts/akzidgrostdbolitawebfont.eot');
+    src: url('../../../fonts/akzidgrostdbolitawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdbolitawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdbolitawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdbolitawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Akidenz-Grotesk Super *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk';
+    src: url('../../../fonts/akzidgrostdsupwebfont.eot');
+    src: url('../../../fonts/akzidgrostdsupwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdsupwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdsupwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdsupwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk';
+    src: url('../../../fonts/akzidgrostdsupitawebfont.eot');
+    src: url('../../../fonts/akzidgrostdsupitawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdsupitawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdsupitawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdsupitawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+
+/* Akidenz-Grotesk Cnd Regular *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdcndwebfont.eot');
+    src: url('../../../fonts/akzidgrostdcndwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdcndwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdcndwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdcndwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdcnditawebfont.eot');
+    src: url('../../../fonts/akzidgrostdcnditawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdcnditawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdcnditawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdcnditawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Akidenz-Grotesk Cnd Bold *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdbolcndwebfont.eot');
+    src: url('../../../fonts/akzidgrostdbolcndwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdbolcndwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdbolcndwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdbolcndwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+     src: url('../../../fonts/akzidgrostdbolcnditawebfont.eot');
+     src: url('../../../fonts/akzidgrostdbolcnditawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdbolcnditawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdbolcnditawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdbolcnditawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Akidenz-Grotesk Cnd Super *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdxbolcndwebfont.eot');
+    src: url('../../../fonts/akzidgrostdxbolcndwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdxbolcndwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdxbolcndwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdxbolcndwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdxbolcnditawebfont.eot');
+    src: url('../../../fonts/akzidgrostdxbolcnditawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdxbolcnditawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdxbolcnditawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdxbolcnditawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* Akidenz-Grotesk Cnd Light *************************************************/
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdligcndwebfont.eot');
+    src: url('../../../fonts/akzidgrostdligcndwebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdligcndwebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdligcndwebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdligcndwebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+/* Italic */
+@font-face {
+    font-family: 'AkzidenzGrotesk Cnd';
+    src: url('../../../fonts/akzidgrostdligcnditawebfont.eot');
+    src: url('../../../fonts/akzidgrostdligcnditawebfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/akzidgrostdligcnditawebfont.woff') format('woff'),
+         url('../../../fonts/akzidgrostdligcnditawebfont.ttf') format('truetype'),
+         url('../../../fonts/akzidgrostdligcnditawebfont.svg#AkzidenzGrotesk') format('svg');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OCRAStd';
+    src: url('../../../fonts/OCRAStd.otf');
+    src: url('../../../fonts/OCRAStd.otf') format('otf'),
+    font-weight: 400;
+    font-style: normal;
+}
+

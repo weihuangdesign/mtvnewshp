@@ -1,0 +1,16 @@
+/* Transitions ------------------*/
+.collapse {
+    display: none;
+    visibility: hidden;
+}
+.collapse.in {
+    display: block;
+    visibility: visible;
+}
+.collapsing {
+    height: 0;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    transition: height 0.35s ease 0s;
+}

@@ -1,0 +1,394 @@
+
+.atw-overlay {
+	background-color:rgba(160,255,255, .7);
+}
+
+.atw-nominee-header-area {
+	background-color: #321446;
+	padding-left: 20px;
+}
+
+#atw-nominee-header-area {
+	margin-top: 0;
+}
+.atw-header {
+	    font-weight: bold;
+	    text-transform: uppercase;
+}
+
+.atw-hashtag {
+	display: inline-block;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+	max-width: 70%;
+}
+
+.atw-hashtag-desktop {
+    font-weight: 700;
+}
+@media (min-width: 980px) {
+.atw-header {
+	padding-top: 20px;
+	padding-bottom: 25px;
+    font-size: 2.8rem;
+    line-height: 2.1rem;
+}
+}
+
+#atw-overlay {
+	padding-top: 45px;
+}
+
+@media (max-width: 980px) {
+.atw-header {
+	font-size: 2rem;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	line-height: 1.6rem;
+}
+
+.atw-nominee-header-area {
+	padding:5px 5px 3px 5px;
+}
+
+}
+
+@media (max-width: 480px) {
+.atw-header {
+	font-size: 1.8rem;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	line-height: 1.5rem;
+}
+.atw-nominee-header-area {
+	padding:5px 5px 3px 5px;
+}
+}
+#top-left {
+	padding-right: 1px;
+}
+
+#top-right {
+	padding-left: 1px;
+}
+
+.vs {
+	position: absolute;
+	vertical-align: middle;
+	margin: 0 auto;
+	z-index: 6;
+	top: 50%;
+	left: 47.6%;
+	color: #321446;
+	background-color: white;
+	border-radius: 100%;
+	padding:10px;
+	font-size: 3rem;
+	font-weight: bold;
+}
+
+@media (max-width: 980px) {
+.vs {
+	top: 53%;
+	left: 47.5%;
+	font-size: 2rem;
+	padding:7px;
+}
+}
+
+@media (max-width: 660px) {
+.vs {
+	top: 59%;
+	left: 47%;
+	font-size: 1.5rem;
+	padding:5px;
+}
+}
+
+@media (max-width: 480px) {
+.vs {
+	font-size: 1.6rem;
+	top: 61.5%;
+	left: 47%;
+	padding:3px;
+}
+
+#winner-vs {
+	top: 68.5%;
+}
+}
+
+.atw-number {
+	display: inline-block;
+	font-size: 6rem;
+	position: relative;
+	font-weight: bold;
+	/*font-family: 'AkzidenzGrotesk Cnd', san-serif;*/
+	color: white;
+
+}
+
+.atw-name {
+	display: inline-block;
+	position: relative;
+	top: 0;
+	text-transform: uppercase;
+	margin-left: 15px;
+	font-weight: 700;
+	color: white;
+}
+
+.atw-song {
+	font-weight: 400;
+	text-transform: capitalize;
+}
+
+@media (min-width: 1200px){
+	#atw-vote-nominee-btn {
+	top:2px;
+	position: relative;
+}
+}
+
+@media (max-width: 1200px){
+	#atw-vote-nominee-btn {
+	top:5px;
+	position: relative;
+}
+}
+
+
+@media (min-width: 480px) {
+	.atw-number-2 {
+	display: none;
+}
+    .atw-name{
+    		font-size: 2rem;
+    }
+
+    .atw-hashtag-desktop {
+    	display: block;
+    	margin-top: 15px;
+    	margin-left: 10px;
+    }
+
+    .atw-hashtag-mobile {
+    	display: none;
+    }
+
+    #atw-ad {
+    	margin-bottom: 60px;
+    }
+
+}
+
+@media (max-width: 480px) {
+/*.atw-number {
+	display: none;
+}*/
+
+.atw-number-2 {
+	display: block;
+	position: absolute;
+	z-index: 6;
+	font-size: 3rem;
+	font-weight: bold;
+	background-color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+}
+.atw-name {
+	margin-left: 0;
+	margin-bottom: 10px;
+	font-size: 2rem;
+	line-height: 2.4rem;
+}
+
+#atw-ad {
+	display: none;
+}
+.atw-hashtag-desktop {
+    	display: block;
+    	margin-top: 12px;
+    	margin-left: 5px;
+    }
+
+ #atw-vote-nominee-btn {
+	top:2px;
+	position: relative;
+}
+.atw-hashtag-mobile {
+    	display: none;
+    }
+
+}
+
+@media (max-width: 980px) {
+	.atw-name  {
+		font-size: 1.5rem;
+	}
+}
+@media (max-width: 480px) {
+/*.atw-number {
+	display: none;
+}*/
+
+#atw-vote-nominee-btn {
+	top:6px;
+	right: 4px;
+}
+
+.atw-number-2 {
+	display: block;
+	position: absolute;
+	z-index: 6;
+	font-size: 1.6rem;
+	font-weight: bold;
+	background-color: white;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 1px;
+}
+.atw-name {
+	margin-left: 0;
+	margin-bottom: 10px;
+	font-size: 1.3rem;
+	line-height: 1.8rem;
+	margin-bottom: 0;
+}
+
+.atw-hashtag-desktop {
+    	display: none;
+    }
+.atw-hashtag-mobile {
+    	display: block;
+    	color: #a0ffff;
+    	font-weight: bold;
+    }
+}
+
+#atw-twitter {
+	background-color: #321446;
+	line-height: 2rem;
+	color: #a0ffff;
+}
+
+#atw-twitter:hover {
+	background-color: #491d67;
+}
+
+#atw-twitter-2 {
+	background-color: #321446;
+	line-height: 2rem;
+	color: #a0ffff;
+}
+
+#atw-twitter-2:hover {
+	background-color: #491d67;
+}
+
+@media (max-width: 480px) {
+#atw-twitter-2 {
+	display: none;
+}
+
+}
+
+.sv-vote-btns-wrap {
+	z-index: 7;
+}
+
+.btn > span {
+	border-radius: 2px;
+}
+
+#atw-vote-nominee-btn {
+	width: 100%
+}
+
+.sv-vote-winner {
+	display: inline-block;
+	background-color:#fff200;
+	color: #321446;
+	font-family: 'AkzidenzGrotesk Cnd', san-serif;
+	margin-right: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 3px;
+	position: absolute;
+	text-transform: uppercase;
+	z-index: 4;
+	left: 0;
+	bottom: 0;
+	font-weight: 700;
+}
+
+#sv-vote-winner {
+	left:80px;
+}
+
+@media (min-width: 980px){
+	.sv-vote-winner {
+		font-size: 2.4rem;
+	}
+
+}
+
+@media (max-width: 980px){
+    .sv-vote-winner {
+		font-size: 2.0rem;
+	}
+
+	#sv-vote-winner {
+	left:70px;
+}
+}
+
+@media (max-width: 480px){
+    .sv-vote-winner {
+		font-size: 2.0rem;
+	}
+}
+
+@media (max-width: 980px) {
+	.atw-number {
+		display: block;
+		line-height: 5rem;
+		font-size: 4rem;
+	}
+	.atw-name {
+		margin-left: 0;
+		margin-bottom: 5px;
+	}
+	.main-vote-nominee-name {
+		font-size: 1.5rem;
+		font-weight: bold;
+	}
+
+	#main-vote-nominee-song {
+		font-size: 1.3rem;
+		font-weight: 400;
+	}
+
+
+}
+
+@media (max-width: 480px){
+
+	.atw-number {
+		display: block;
+		line-height: 4rem;
+		font-size: 3.5rem;
+	}
+		#atw-vote-nominee-btn {
+		text-align: center;
+	}
+
+
+}
+
+#atw-grey {
+	background-color: #333;
+}
